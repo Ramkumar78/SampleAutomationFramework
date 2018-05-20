@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae2976b2-3500-4a81-a36e-45bf5dabcdd7" name="Default" comment="inital setup">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/drivers/geckodriver.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/spookytester/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/spookytester/PageSetup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/features/navigate.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/spookytester/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/spookytester/PageNavigationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -371,7 +363,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526815713636</updated>
       <workItem from="1526815717123" duration="4871000" />
-      <workItem from="1526825349566" duration="566000" />
+      <workItem from="1526825349566" duration="938000" />
     </task>
     <servers />
   </component>
@@ -399,7 +391,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5437000" />
+    <option name="totallyTimeSpent" value="5809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
